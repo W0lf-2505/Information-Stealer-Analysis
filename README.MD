@@ -9,8 +9,6 @@ The implementation discussed in this project simulates how attackers may extract
 browser credentials, clipboard data, and system information, with the goal of
 **raising awareness and improving defensive security practices**.
 
-⚠️ No executable tool is provided as part of this submission.
-
 ---
 
 ## Project Purpose
