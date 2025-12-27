@@ -1,0 +1,5 @@
+pyperclip
+uuid
+requests
+pycryptodome
+pywin32
